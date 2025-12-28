@@ -1,5 +1,5 @@
 
-# Air Quality Index (AQI) Analysis and Prediction
+# Air Quality Index Prediction Using Deep Neural Networks 
 
 ## Overview
 
